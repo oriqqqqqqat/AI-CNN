@@ -1,0 +1,83 @@
+id,skincap_file_path,disease
+3800,D:\multimodalll\CNN+NLP\data\test\3800.jpg,lupus erythematosus
+3746,D:\multimodalll\CNN+NLP\data\test\3746.jpg,lupus erythematosus
+1744,D:\multimodalll\CNN+NLP\data\test\1744.jpg,basal cell carcinoma
+1285,D:\multimodalll\CNN+NLP\data\test\1285.jpg,lupus erythematosus
+3440,D:\multimodalll\CNN+NLP\data\test\3440.jpg,squamous cell carcinoma
+2189,D:\multimodalll\CNN+NLP\data\test\2189.jpg,psoriasis
+3204,D:\multimodalll\CNN+NLP\data\test\3204.jpg,squamous cell carcinoma
+580,D:\multimodalll\CNN+NLP\data\test\580.jpg,squamous cell carcinoma
+3601,D:\multimodalll\CNN+NLP\data\test\3601.jpg,lupus erythematosus
+2495,D:\multimodalll\CNN+NLP\data\test\2495.jpg,squamous cell carcinoma
+3745,D:\multimodalll\CNN+NLP\data\test\3745.jpg,basal cell carcinoma
+284,D:\multimodalll\CNN+NLP\data\test\284.jpg,melanocytic-nevi
+3802,D:\multimodalll\CNN+NLP\data\test\3802.jpg,basal cell carcinoma
+761,D:\multimodalll\CNN+NLP\data\test\761.jpg,lupus erythematosus
+2272,D:\multimodalll\CNN+NLP\data\test\2272.jpg,psoriasis
+3046,D:\multimodalll\CNN+NLP\data\test\3046.jpg,psoriasis
+3935,D:\multimodalll\CNN+NLP\data\test\3935.jpg,squamous cell carcinoma
+518,D:\multimodalll\CNN+NLP\data\test\518.jpg,basal cell carcinoma
+1312,D:\multimodalll\CNN+NLP\data\test\1312.jpg,lupus erythematosus
+3927,D:\multimodalll\CNN+NLP\data\test\3927.jpg,lupus erythematosus
+1112,D:\multimodalll\CNN+NLP\data\test\1112.jpg,lupus erythematosus
+274,D:\multimodalll\CNN+NLP\data\test\274.jpg,melanocytic-nevi
+1281,D:\multimodalll\CNN+NLP\data\test\1281.jpg,lupus erythematosus
+2159,D:\multimodalll\CNN+NLP\data\test\2159.jpg,basal cell carcinoma
+3865,D:\multimodalll\CNN+NLP\data\test\3865.jpg,psoriasis
+1795,D:\multimodalll\CNN+NLP\data\test\1795.jpg,psoriasis
+267,D:\multimodalll\CNN+NLP\data\test\267.jpg,melanocytic-nevi
+3178,D:\multimodalll\CNN+NLP\data\test\3178.jpg,psoriasis
+581,D:\multimodalll\CNN+NLP\data\test\581.jpg,basal cell carcinoma
+3153,D:\multimodalll\CNN+NLP\data\test\3153.jpg,basal cell carcinoma
+635,D:\multimodalll\CNN+NLP\data\test\635.jpg,melanocytic-nevi
+550,D:\multimodalll\CNN+NLP\data\test\550.jpg,basal cell carcinoma
+1947,D:\multimodalll\CNN+NLP\data\test\1947.jpg,squamous cell carcinoma
+1838,D:\multimodalll\CNN+NLP\data\test\1838.jpg,basal cell carcinoma
+547,D:\multimodalll\CNN+NLP\data\test\547.jpg,melanocytic-nevi
+3600,D:\multimodalll\CNN+NLP\data\test\3600.jpg,psoriasis
+556,D:\multimodalll\CNN+NLP\data\test\556.jpg,basal cell carcinoma
+2722,D:\multimodalll\CNN+NLP\data\test\2722.jpg,lupus erythematosus
+477,D:\multimodalll\CNN+NLP\data\test\477.jpg,basal cell carcinoma
+1422,D:\multimodalll\CNN+NLP\data\test\1422.jpg,basal cell carcinoma
+2716,D:\multimodalll\CNN+NLP\data\test\2716.jpg,squamous cell carcinoma
+1663,D:\multimodalll\CNN+NLP\data\test\1663.jpg,basal cell carcinoma
+285,D:\multimodalll\CNN+NLP\data\test\285.jpg,melanocytic-nevi
+3535,D:\multimodalll\CNN+NLP\data\test\3535.jpg,basal cell carcinoma
+2638,D:\multimodalll\CNN+NLP\data\test\2638.jpg,basal cell carcinoma
+726,D:\multimodalll\CNN+NLP\data\test\726.jpg,basal cell carcinoma
+644,D:\multimodalll\CNN+NLP\data\test\644.jpg,melanocytic-nevi
+3394,D:\multimodalll\CNN+NLP\data\test\3394.jpg,basal cell carcinoma
+642,D:\multimodalll\CNN+NLP\data\test\642.jpg,melanocytic-nevi
+3652,D:\multimodalll\CNN+NLP\data\test\3652.jpg,basal cell carcinoma
+2992,D:\multimodalll\CNN+NLP\data\test\2992.jpg,psoriasis
+3832,D:\multimodalll\CNN+NLP\data\test\3832.jpg,squamous cell carcinoma
+2532,D:\multimodalll\CNN+NLP\data\test\2532.jpg,squamous cell carcinoma
+3815,D:\multimodalll\CNN+NLP\data\test\3815.jpg,squamous cell carcinoma
+2086,D:\multimodalll\CNN+NLP\data\test\2086.jpg,psoriasis
+643,D:\multimodalll\CNN+NLP\data\test\643.jpg,basal cell carcinoma
+1339,D:\multimodalll\CNN+NLP\data\test\1339.jpg,squamous cell carcinoma
+14,D:\multimodalll\CNN+NLP\data\test\14.jpg,squamous cell carcinoma
+305,D:\multimodalll\CNN+NLP\data\test\305.jpg,melanocytic-nevi
+2141,D:\multimodalll\CNN+NLP\data\test\2141.jpg,squamous cell carcinoma
+2656,D:\multimodalll\CNN+NLP\data\test\2656.jpg,squamous cell carcinoma
+438,D:\multimodalll\CNN+NLP\data\test\438.jpg,melanocytic-nevi
+3908,D:\multimodalll\CNN+NLP\data\test\3908.jpg,basal cell carcinoma
+322,D:\multimodalll\CNN+NLP\data\test\322.jpg,melanocytic-nevi
+2805,D:\multimodalll\CNN+NLP\data\test\2805.jpg,psoriasis
+3134,D:\multimodalll\CNN+NLP\data\test\3134.jpg,lupus erythematosus
+2428,D:\multimodalll\CNN+NLP\data\test\2428.jpg,lupus erythematosus
+168,D:\multimodalll\CNN+NLP\data\test\168.jpg,squamous cell carcinoma
+679,D:\multimodalll\CNN+NLP\data\test\679.jpg,basal cell carcinoma
+3022,D:\multimodalll\CNN+NLP\data\test\3022.jpg,psoriasis
+2036,D:\multimodalll\CNN+NLP\data\test\2036.jpg,psoriasis
+196,D:\multimodalll\CNN+NLP\data\test\196.jpg,melanocytic-nevi
+2441,D:\multimodalll\CNN+NLP\data\test\2441.jpg,lupus erythematosus
+531,D:\multimodalll\CNN+NLP\data\test\531.jpg,squamous cell carcinoma
+3585,D:\multimodalll\CNN+NLP\data\test\3585.jpg,squamous cell carcinoma
+570,D:\multimodalll\CNN+NLP\data\test\570.jpg,melanocytic-nevi
+3018,D:\multimodalll\CNN+NLP\data\test\3018.jpg,squamous cell carcinoma
+3198,D:\multimodalll\CNN+NLP\data\test\3198.jpg,lupus erythematosus
+283,D:\multimodalll\CNN+NLP\data\test\283.jpg,melanocytic-nevi
+1961,D:\multimodalll\CNN+NLP\data\test\1961.jpg,psoriasis
+553,D:\multimodalll\CNN+NLP\data\test\553.jpg,basal cell carcinoma
+2005,D:\multimodalll\CNN+NLP\data\test\2005.jpg,psoriasis
